@@ -24,6 +24,7 @@ public class conexao {
                conexao = DriverManager.getConnection(url, user, pass);
                return conexao;
                
+               //alterado da Web
                
                        
                
